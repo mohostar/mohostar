@@ -47,7 +47,7 @@
 | Project | Role | Tech Stack |
 | :--- | :--- | :--- |
 | **[THE HOOD RP](https://thehoodroleplay.hu/)** | UI/UX & System Logic | FiveM, JS, Lua |
-| **[Apollo Tweaks](https://apollotweaks.eu/)** | Performance & Debloat | Win32, C++, CMD |
+| **[APOLLO TWEAKS](https://apollotweaks.eu/)** | Performance & Debloat | Win32, C++, CMD |
 
 ---
 
