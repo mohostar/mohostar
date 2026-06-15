@@ -5,8 +5,7 @@
 ### Performance Engineer • Full Stack Developer • UI/UX Architect
 
 > *Building software that is fast, scalable and built to last.*
-> https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Code+Enthusiast;Open+Source+Lover;Always+Learning+New+Things
-
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Code+Enthusiast;Open+Source+Lover;Always+Learning+New+Things" alt="Typing SVG" />
 <br>
 
 <img src="https://img.shields.io/badge/STATUS-OPEN_FOR_PROJECTS-00E676?style=for-the-badge&logo=rocket&logoColor=black"/>
